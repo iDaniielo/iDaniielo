@@ -22,16 +22,36 @@
 
 ## About me
 
+Software developer with **5+ years** building enterprise solutions with Java, Spring Boot and microservices, in telecommunications, healthcare and web development. I care about security, performance and scalability, and I've worked on ISO 27001/9001 certified projects in Agile (Scrum) teams.
+
 | | |
 | --- | --- |
 | **Location** | Veracruz, Mexico 🇲🇽 |
 | **Company** | High Solutions |
-| **Backend** | Java 21 — Spring Boot, Spring Modulith, Flyway · Node.js — Strapi 5 · PHP — WordPress headless |
-| **Frontend** | Astro, Preact, Angular, Next.js, React, TypeScript, Tailwind CSS |
-| **Data** | PostgreSQL, MySQL |
-| **Infra** | Docker, Cloudflare Workers, Dokploy on a VPS, GitHub Actions |
+| **Backend** | Java 21 — Spring Boot, Spring Modulith, Hibernate/JPA, Flyway · REST & SOAP · Node.js — Strapi 5 · PHP — WordPress headless |
+| **Frontend** | Astro, Preact, Angular, Next.js, React, TypeScript, Tailwind CSS, PrimeFaces |
+| **Data** | PostgreSQL, Oracle, SQL Server, MySQL, NoSQL |
+| **Infra** | Docker, Cloudflare Workers, Dokploy on a VPS, Linux, Windows Server, CI/CD with GitHub Actions and GitLab |
 | **Payments** | Mercado Pago, Stripe, PayPal |
+| **AI tools** | Claude Code, Google Antigravity, GitHub Copilot |
 | **Focus** | Real products for real businesses: e-commerce, ERPs and point of sale |
+
+## Experience
+
+| Role | Company | Period | Highlights |
+| --- | --- | --- | --- |
+| **Web Developer** | Ahuri – Software Solutions | Oct 2025 – Present | Full-stack web apps: Java back-end services integrated with Next.js front-ends. |
+| **Web Developer (Freelance)** | Independent | Jun 2022 – Present | Web projects with Next.js, React, TypeScript and Tailwind; REST APIs and third-party integrations; full lifecycle from architecture to deployment. |
+| **IT Support Specialist / Full Stack Developer** | Logicalis Latam (AT&T Mexico) | Dec 2024 – Sep 2025 | Modules for the Falcon telecom management platform and its mobile app; full-stack work with a network security focus; automated internal processes. |
+| **Developer** | Prospectiva en Tecnología | Aug 2024 – Oct 2024 | Invoice reception portal for LATAM tax institutions; connection-validation job with Costa Rica's Ministry of Finance. |
+| **Advanced Developer Analyst** | Sye Software – IMSS | Aug 2023 – Sep 2024 | REST services for national reports; HIV-related disease detection module with SOAP services to the Ministry of Health; **25% faster** PDF/Excel reports. |
+| **Developer / Technical Support** | Repdecom Hikvision Store | Feb 2022 – Mar 2023 | **20% faster** inventory control system; database tuning and Windows Server maintenance. |
+| **Systems Administrator / Developer** | Medical Pet Veterinary | Feb 2020 – Jan 2022 | Custom CRM built from scratch: UI, REST services, database and on-premise deployment. |
+
+## Education
+
+- **Bachelor's in Administrative Informatics** — Universidad Popular Autónoma de Veracruz
+- **Computer Systems Engineering** (incomplete) — Instituto Tecnológico de Orizaba, 2014 – 2018
 
 ## Featured projects
 
@@ -72,6 +92,9 @@
 
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logoColor=white)
+![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=cloudflare&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
