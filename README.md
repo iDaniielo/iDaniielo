@@ -83,6 +83,13 @@
 ![Stripe](https://img.shields.io/badge/Stripe-635BFF?style=for-the-badge&logo=stripe&logoColor=white)
 ![PayPal](https://img.shields.io/badge/PayPal-003087?style=for-the-badge&logo=paypal&logoColor=white)
 
+## Certifications
+
+**Anthropic**
+
+![Claude Code 101](https://img.shields.io/badge/Claude_Code_101-D97757?style=for-the-badge&logo=anthropic&logoColor=white)
+![Claude Code in Action](https://img.shields.io/badge/Claude_Code_in_Action-D97757?style=for-the-badge&logo=anthropic&logoColor=white)
+
 ## GitHub stats
 
 <p align="center">
