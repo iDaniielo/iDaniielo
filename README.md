@@ -22,17 +22,19 @@
 
 ## About me
 
-Software developer with **5+ years** building enterprise solutions with Java, Spring Boot and microservices, in telecommunications, healthcare and web development. I care about security, performance and scalability, and I've worked on ISO 27001/9001 certified projects in Agile (Scrum) teams.
+Software developer with **5+ years** building enterprise solutions with Java, Spring Boot and microservices, in telecommunications, healthcare, e-commerce and web development. Lately I build online stores and course platforms end to end — payment gateways (Mercado Pago, Stripe, PayPal) confirmed by webhook, deployed on Cloudflare Workers and VPS with Dokploy. I care about security, performance and scalability, and I've worked on ISO 27001/9001 certified projects in Agile (Scrum) teams.
 
 | | |
 | --- | --- |
 | **Location** | Veracruz, Mexico 🇲🇽 |
-| **Company** | High Solutions |
-| **Backend** | Java 21 — Spring Boot, Spring Modulith, Hibernate/JPA, Flyway · REST & SOAP · Node.js — Strapi 5 · PHP — WordPress headless |
+| **Currently** | Full Stack Developer at Connatural · Freelance web developer |
+| **Backend** | Java 21 — Spring Boot, Spring Modulith, Hibernate/JPA, Flyway · REST & SOAP · Node.js — Strapi 5 · PHP — WordPress/WooCommerce headless |
 | **Frontend** | Astro, Preact, Angular, Next.js, React, TypeScript, Tailwind CSS, PrimeFaces |
-| **Data** | PostgreSQL, Oracle, SQL Server, MySQL, NoSQL |
-| **Infra** | Docker, Cloudflare Workers, Dokploy on a VPS, Linux, Windows Server, CI/CD with GitHub Actions and GitLab |
-| **Payments** | Mercado Pago, Stripe, PayPal |
+| **Data** | PostgreSQL, Oracle, SQL Server, MySQL, MariaDB, Redis, NoSQL |
+| **Infra** | Docker, Cloudflare Workers, Dokploy on a VPS, Linux, Windows Server, CI/CD with GitHub Actions and GitLab, Sentry |
+| **Security** | JWT, Cloudflare Access, server hardening (CrowdSec, Lynis, Trivy), ISO 27001 / 9001 |
+| **Testing** | JUnit, Vitest, Playwright |
+| **Payments & APIs** | Mercado Pago, Stripe, PayPal, Envia.com, SendGrid |
 | **AI tools** | Claude Code, Google Antigravity, GitHub Copilot |
 | **Focus** | Real products for real businesses: e-commerce, ERPs and point of sale |
 
@@ -40,7 +42,9 @@ Software developer with **5+ years** building enterprise solutions with Java, Sp
 
 | Role | Company | Period | Highlights |
 | --- | --- | --- | --- |
-| **Web Developer** | Ahuri – Software Solutions | Oct 2025 – Present | Full-stack web apps: Java back-end services integrated with Next.js front-ends. |
+| **Full Stack Developer** | Connatural | Oct 2026 – Present | Online store (Astro, Preact, Tailwind) on Cloudflare Workers with staging and production; Strapi 5 + PostgreSQL on a VPS with Docker and Dokploy; Mercado Pago, Stripe and PayPal confirmed by webhook; shipping with Envia.com; wholesale portal with role-restricted prices and httpOnly JWT sessions; internal operations PWA behind Cloudflare Access; CI/CD, Vitest, Playwright and Sentry. |
+| **Full Stack Developer** | Altef – Alimentación Técnica | Mar 2026 – Sep 2026 | alimentaciontecnica.com: courses, store, ebooks, blog, nutrition calculator and appointments. Next.js 15 + Zustand + NextAuth; headless WordPress, WooCommerce and LearnPress with a custom PHP plugin of **36 REST endpoints**; MariaDB and Redis on Docker; three payment gateways with prices localized by country; hardened VPS with monitoring. |
+| **Web Developer** | Ahuri – Software Solutions | Oct 2025 – Mar 2026 | Full-stack web apps: Java back-end services integrated with React front-ends. |
 | **Web Developer (Freelance)** | Independent | Jun 2022 – Present | Web projects with Next.js, React, TypeScript and Tailwind; REST APIs and third-party integrations; full lifecycle from architecture to deployment. |
 | **IT Support Specialist / Full Stack Developer** | Logicalis Latam (AT&T Mexico) | Dec 2024 – Sep 2025 | Modules for the Falcon telecom management platform and its mobile app; full-stack work with a network security focus; automated internal processes. |
 | **Developer** | Prospectiva en Tecnología | Aug 2024 – Oct 2024 | Invoice reception portal for LATAM tax institutions; connection-validation job with Costa Rica's Ministry of Finance. |
@@ -59,8 +63,8 @@ Software developer with **5+ years** building enterprise solutions with Java, Sp
 
 | Project | Description | Stack |
 | --- | --- | --- |
-| **Connatural** | E-commerce for natural pet food from Orizaba, Veracruz. Static store on the edge, headless CMS, three payment gateways with webhooks, wholesale accounts for vets and stores, and separate staging/production environments. | ![Astro](https://img.shields.io/badge/Astro-BC52EE?logo=astro&logoColor=white) ![Preact](https://img.shields.io/badge/Preact-673AB8?logo=preact&logoColor=white) ![Strapi](https://img.shields.io/badge/Strapi-5-4945FF?logo=strapi&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white) ![Cloudflare Workers](https://img.shields.io/badge/Cloudflare-Workers-F38020?logo=cloudflare&logoColor=white) |
-| **Connatural Operations** | Internal app for lot-based inventory, sales, delivery notes, consignment and accounting. | ![Astro](https://img.shields.io/badge/Astro-BC52EE?logo=astro&logoColor=white) ![Preact](https://img.shields.io/badge/Preact-673AB8?logo=preact&logoColor=white) ![Tailwind CSS](https://img.shields.io/badge/Tailwind-06B6D4?logo=tailwindcss&logoColor=white) |
+| **Connatural** | E-commerce for dehydrated treats and natural pet food from Orizaba, Veracruz. Static store on the edge, headless CMS, three payment gateways confirmed by webhook, shipping quotes and labels, a wholesale portal for vets and stores, and separate staging/production environments. | ![Astro](https://img.shields.io/badge/Astro-BC52EE?logo=astro&logoColor=white) ![Preact](https://img.shields.io/badge/Preact-673AB8?logo=preact&logoColor=white) ![Strapi](https://img.shields.io/badge/Strapi-5-4945FF?logo=strapi&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white) ![Cloudflare Workers](https://img.shields.io/badge/Cloudflare-Workers-F38020?logo=cloudflare&logoColor=white) |
+| **Connatural Operations** | Internal PWA for lot-based inventory, sales, delivery notes, consignment and cash closings, protected with Cloudflare Access. | ![Astro](https://img.shields.io/badge/Astro-BC52EE?logo=astro&logoColor=white) ![Preact](https://img.shields.io/badge/Preact-673AB8?logo=preact&logoColor=white) ![Tailwind CSS](https://img.shields.io/badge/Tailwind-06B6D4?logo=tailwindcss&logoColor=white) |
 | **Calupoh ERP** | Veterinary ERP: clients, clinical records, scheduling, POS, invoicing, inventory, notifications and AI. Modular monolith verified with Spring Modulith. | ![Java](https://img.shields.io/badge/Java-21-ED8B00?logo=openjdk&logoColor=white) ![Spring Boot](https://img.shields.io/badge/Spring_Boot-4-6DB33F?logo=springboot&logoColor=white) ![Angular](https://img.shields.io/badge/Angular-DD0031?logo=angular&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-16-4169E1?logo=postgresql&logoColor=white) |
 | **ERP POS** | ERP and point of sale for retail: REST API with migrations and an Angular admin UI. | ![Java](https://img.shields.io/badge/Java-21-ED8B00?logo=openjdk&logoColor=white) ![Spring Boot](https://img.shields.io/badge/Spring_Boot-3.5-6DB33F?logo=springboot&logoColor=white) ![Angular](https://img.shields.io/badge/Angular-DD0031?logo=angular&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white) |
 | **Alimentación Técnica** | Online course platform on veterinary nutrition: courses, blog, store, nutrition calculator and appointments, on a headless WordPress. | ![Next.js](https://img.shields.io/badge/Next.js-000000?logo=nextdotjs&logoColor=white) ![WordPress](https://img.shields.io/badge/WordPress-headless-21759B?logo=wordpress&logoColor=white) ![PHP](https://img.shields.io/badge/PHP-777BB4?logo=php&logoColor=white) |
@@ -92,6 +96,8 @@ Software developer with **5+ years** building enterprise solutions with Java, Sp
 
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-FF4438?style=for-the-badge&logo=redis&logoColor=white)
 ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logoColor=white)
 ![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
@@ -99,6 +105,9 @@ Software developer with **5+ years** building enterprise solutions with Java, Sp
 ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=cloudflare&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Sentry](https://img.shields.io/badge/Sentry-362D59?style=for-the-badge&logo=sentry&logoColor=white)
+![Vitest](https://img.shields.io/badge/Vitest-6E9F18?style=for-the-badge&logo=vitest&logoColor=white)
+![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge&logoColor=white)
 
 **Payments**
 
@@ -112,6 +121,7 @@ Software developer with **5+ years** building enterprise solutions with Java, Sp
 
 ![Claude Code 101](https://img.shields.io/badge/Claude_Code_101-D97757?style=for-the-badge&logo=anthropic&logoColor=white)
 ![Claude Code in Action](https://img.shields.io/badge/Claude_Code_in_Action-D97757?style=for-the-badge&logo=anthropic&logoColor=white)
+![Claude 101](https://img.shields.io/badge/Claude_101-D97757?style=for-the-badge&logo=anthropic&logoColor=white)
 
 ## GitHub stats
 
