@@ -97,7 +97,7 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=iDaniielo&theme=github-compact&hide_border=true&area=true" alt="GitHub activity graph">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=iDaniielo&theme=github_dark" alt="GitHub activity graph">
 </p>
 
 ## Contact
